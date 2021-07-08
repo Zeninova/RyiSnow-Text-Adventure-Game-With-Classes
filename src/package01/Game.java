@@ -1,5 +1,3 @@
-//
-
 package package01;
 
 import java.awt.*;
