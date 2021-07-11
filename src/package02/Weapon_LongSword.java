@@ -1,6 +1,6 @@
 package package02;
 
-public class Weapon_LongSword {
+public class Weapon_LongSword extends SuperWeapon {
 
     public Weapon_LongSword() {
         name =  "Long Sword";
